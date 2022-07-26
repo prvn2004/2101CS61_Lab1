@@ -20,6 +20,10 @@ int main()
             case 3:
         printf("%.2f", (a * b));
         break;
+            case 4:
+        printf("%.2f", (a / b));
+        break;
+    }
     
     return 0;
 }
