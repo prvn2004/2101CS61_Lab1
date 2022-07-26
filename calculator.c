@@ -14,5 +14,9 @@ int main()
     case 1:
         printf("%.2f", (a + b));
         break;
+            case 2:
+        printf("%.2f", (a - b));
+        break;
+    
     return 0;
 }
